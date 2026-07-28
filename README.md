@@ -8,4 +8,4 @@
 - - :octocat: Github              => :link:	https://github.com/hamdanfaisal2009
 
 ### :medal_sports: Expolre my Portfolio :
-- **Portolio link => :link: https://aboutmygoal.netlify.app/**
+- **Portolio link => :link: (https://hamdanfaisal2009.github.io/My-portfolio/)
